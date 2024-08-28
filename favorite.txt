@@ -1,3 +1,11 @@
-Biriany 
-Khichuri
-Ice Cream
+Foods:
+    Biriany 
+    Khichuri
+    Ice Cream
+
+============================
+
+Movies:
+    Amadeus
+    The Fifth Element
+    Captin Fantastic
